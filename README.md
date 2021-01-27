@@ -1,6 +1,7 @@
 # Vue.JS-and-CSS-Practice
 Vue.js and CSS practice files and First Project
 
+I plan to make a todolist tracker with a pomodoro tracker with distraction pad.
 
 From YT Tutorials:
 <br>
